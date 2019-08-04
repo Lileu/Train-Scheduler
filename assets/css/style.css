@@ -1,3 +1,12 @@
 th, label {
-    font-weight: bold;
+    font-weight: bold;  
+}
+
+.card-header {
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+.jumbotron {
+    margin-top: 15px;
+    background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
 }
