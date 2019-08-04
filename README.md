@@ -14,5 +14,4 @@ https://lileu.github.io/Train-Scheduler/
 6. Moment.js
 
 
-## Stuff I learned
-* 
+
